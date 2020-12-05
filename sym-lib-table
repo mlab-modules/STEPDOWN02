@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "STEPDOWN2A-rescue")(type "Legacy")(uri "${KIPRJMOD}/STEPDOWN2A-rescue.lib")(options "")(descr ""))
+)
