@@ -6,12 +6,21 @@ github_description: null
 github_repo: STEPDOWN02
 github_url: https://github.com/mlab-modules/STEPDOWN02
 homepage: false
-images: []
+images:
+- doc/gen/img/STEPDOWN02-top.png
+- doc/gen/img/STEPDOWN02-bottom.png
+- doc/gen/STEPDOWN02-schematic.svg
+- doc/gen/img/STEPDOWN02-bottom.svg
+- doc/gen/img/STEPDOWN02-top.svg
+- hw/cam_profi/assembly/STEPDOWN02-assembly_page_02.svg
+- hw/cam_profi/assembly/STEPDOWN02-assembly_page_01.svg
 issues: 0
 mark: 50
+mod_ibom: hw/cam_profi/STEPDOWN02-ibom.html
+mod_scheme: doc/gen/STEPDOWN02-schematic.pdf
 status: 2
 tags:
 - mlab
 - mlab-module
 title: STEPDOWN02
-updated: '2023-09-17T10:00:37.423927+00:00'
+updated: '2023-09-17T10:03:04.835030+00:00'
