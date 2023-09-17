@@ -1,0 +1,12 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C12","47u","C_Radial_D6.3_L11.2_P2.5",138.8110,-98.8060,-90.0000,top
+"D2","POWER OUT","LED_0805",136.6520,-71.1200,0.0000,top
+"J1","CONN1_1","WAGO256",149.0980,-93.9800,180.0000,top
+"J2","CONN1_1","WAGO256",149.0980,-88.9000,180.0000,top
+"J3","CONN1_1","WAGO256",149.0980,-78.7400,180.0000,top
+"J4","CONN1_1","WAGO256",149.0980,-83.8200,180.0000,top
+"P1","_NC","MountingHole_3.2mm_M3_DIN965_Pad",121.9200,-71.1200,0.0000,top
+"P2","_NC","MountingHole_3.2mm_M3_DIN965_Pad",152.4000,-71.1200,0.0000,top
+"P3","_NC","MountingHole_3.2mm_M3_DIN965_Pad",121.9200,-101.6000,0.0000,top
+"P4","_NC","MountingHole_3.2mm_M3_DIN965_Pad",152.4000,-101.6000,0.0000,top
+"P5","CONN_01X01","Pin_Header_Straight_1x01",130.4290,-101.4730,0.0000,top
