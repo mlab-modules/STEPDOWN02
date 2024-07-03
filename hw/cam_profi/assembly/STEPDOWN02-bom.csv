@@ -20,4 +20,4 @@ Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
 19,,R,R3,1k93,R_0805,1,
 20,,R,R2,10k2,R_0805,1,
 21,,R,R1,35k7,R_0805,1,
-22,,TPS54332,U1,TPS54332,8-PowerSOIC_Pitch1.27mm,1,
+22,,TPS54332,U1,TPS54332,8-PowerSOIC_Pitch1.27mm,1,https://www.ti.com/lit/ds/symlink/tps54332.pdf?ts=1720015286104&ref_url=https%253A%252F%252Fwww.mouser.com%252F
