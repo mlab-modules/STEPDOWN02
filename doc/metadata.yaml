@@ -15,6 +15,8 @@ images:
 - doc/gen/img/STEPDOWN02-top.svg
 - hw/cam_profi/assembly/STEPDOWN02-assembly_page_02.svg
 - hw/cam_profi/assembly/STEPDOWN02-assembly_page_01.svg
+- hw/cam_profi/docs/master-assembly_page_02.svg
+- hw/cam_profi/docs/master-assembly_page_01.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/STEPDOWN02-ibom.html
@@ -26,4 +28,4 @@ tags:
 - step-down
 - voltage-regulator
 title: STEPDOWN02
-updated: '2024-07-03T21:53:39.175736+00:00'
+updated: '2024-07-03T22:02:14.314654+00:00'
