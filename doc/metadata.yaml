@@ -1,8 +1,8 @@
-description: null
+description: 28V input 1 MHz switching step-down converter
 github_branch: STEPDOWN02A
 github_branches:
 - master
-github_description: null
+github_description: 28V input 1 MHz switching step-down converter
 github_repo: STEPDOWN02
 github_url: https://github.com/mlab-modules/STEPDOWN02
 homepage: false
@@ -23,5 +23,7 @@ status: 2
 tags:
 - mlab
 - mlab-module
+- step-down
+- voltage-regulator
 title: STEPDOWN02
-updated: '2023-09-17T11:50:21.216793+00:00'
+updated: '2024-07-03T21:53:39.175736+00:00'

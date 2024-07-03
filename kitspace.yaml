@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/STEPDOWN02
-summary: null
+summary: 28V input 1 MHz switching step-down converter
