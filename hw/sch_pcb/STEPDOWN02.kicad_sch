@@ -6,7 +6,7 @@
 
   (title_block
     (title "STEPDOWN02")
-    (comment 1 "High-voltage input step-down converter")
+    (comment 1 "28V input 1 MHz switching\\nstep-down converter")
   )
 
   (lib_symbols
@@ -1483,8 +1483,11 @@
     (property "Footprint" "Housings_SOIC:8-PowerSOIC_Pitch1.27mm" (at 125.73 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 125.73 69.85 0)
+    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps54332.pdf?ts=1720015286104&ref_url=https%253A%252F%252Fwww.mouser.com%252F" (at 125.73 69.85 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "UST_ID" "" (at 125.73 67.31 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid cd03b256-c9eb-48c7-8722-6fbf548bf7ad))
     (pin "2" (uuid 81165e82-67b0-4bd9-b5f6-aa157d1829a5))
