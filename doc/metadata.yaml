@@ -8,13 +8,13 @@ github_url: https://github.com/mlab-modules/STEPDOWN02
 homepage: false
 image_title: doc/gen/img/STEPDOWN02-top.png
 images:
-- doc/gen/img/STEPDOWN02-top.png
 - doc/gen/img/STEPDOWN02-bottom.png
-- doc/gen/STEPDOWN02-schematic.svg
-- doc/gen/img/STEPDOWN02-bottom.svg
-- doc/gen/img/STEPDOWN02-top.svg
+- doc/gen/img/STEPDOWN02-top.png
 - hw/cam_profi/assembly/STEPDOWN02-assembly_page_02.svg
 - hw/cam_profi/assembly/STEPDOWN02-assembly_page_01.svg
+- doc/gen/STEPDOWN02-schematic.svg
+- doc/gen/img/STEPDOWN02-top.svg
+- doc/gen/img/STEPDOWN02-bottom.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/STEPDOWN02-ibom.html
@@ -26,4 +26,4 @@ tags:
 - step-down
 - voltage-regulator
 title: STEPDOWN02
-updated: '2024-07-03T22:05:53.588574+00:00'
+updated: '2024-07-15T00:43:29.079568+00:00'
