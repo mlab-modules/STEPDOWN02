@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/STEPDOWN02.kicad_sch</source>
-    <date>Wed Jul  3 22:05:17 2024</date>
-    <tool>Eeschema 7.0.11+1</tool>
+    <date>2024-07-16T00:43:43+0000</date>
+    <tool>Eeschema 8.0.3+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>STEPDOWN02</title>
@@ -27,132 +27,221 @@
     <comp ref="C1">
       <value>22u</value>
       <footprint>Capacitors_Tantalum_SMD:TantalC_SizeD_EIA-7343_Reflow</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_Tantalum_SMD:TantalC_SizeD_EIA-7343_Reflow</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CP" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="CP* C_Axial* C_Radial* TantalC* C*elec c_elec* SMD*_Pol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e402c6</tstamps>
     </comp>
     <comp ref="C2">
       <value>3u3</value>
       <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e3fb88</tstamps>
     </comp>
     <comp ref="C3">
       <value>1u</value>
       <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e51976</tstamps>
     </comp>
     <comp ref="C4">
       <value>18pF</value>
       <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e3fd1b</tstamps>
     </comp>
     <comp ref="C5">
       <value>680pF</value>
       <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e3fd8e</tstamps>
     </comp>
     <comp ref="C6">
       <value>8n2</value>
       <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e3fdf3</tstamps>
     </comp>
     <comp ref="C7">
       <value>100n</value>
       <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e3fe32</tstamps>
     </comp>
     <comp ref="C8">
       <value>22u</value>
       <footprint>Capacitors_Tantalum_SMD:TantalC_SizeC_EIA-6032_Reflow</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_Tantalum_SMD:TantalC_SizeC_EIA-6032_Reflow</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CP" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="CP* C_Axial* C_Radial* TantalC* C*elec c_elec* SMD*_Pol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e4038a</tstamps>
     </comp>
     <comp ref="C9">
       <value>1u5</value>
       <footprint>Capacitors_SMD:C_1206</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_1206</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e50c53</tstamps>
     </comp>
     <comp ref="C10">
       <value>22u</value>
       <footprint>Capacitors_Tantalum_SMD:TantalC_SizeB_EIA-3528_Reflow</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_Tantalum_SMD:TantalC_SizeB_EIA-3528_Reflow</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CP" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="CP* C_Axial* C_Radial* TantalC* C*elec c_elec* SMD*_Pol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e50e46</tstamps>
     </comp>
     <comp ref="C11">
       <value>1u5</value>
       <footprint>Capacitors_SMD:C_1206</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_SMD:C_1206</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e3fed1</tstamps>
     </comp>
     <comp ref="C12">
       <value>47u</value>
       <footprint>Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</footprint>
+      <fields>
+        <field name="Footprint">Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CP" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="CP* C_Axial* C_Radial* TantalC* C*elec c_elec* SMD*_Pol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057ea6210</tstamps>
     </comp>
     <comp ref="D1">
       <value>D_Schottky</value>
       <footprint>Diodes_SMD:DO-214AB</footprint>
+      <fields>
+        <field name="Footprint">Diodes_SMD:DO-214AB</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="D_Schottky" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="D-Pak_TO252AA Diode_* *SingleDiode *SingleDiode* *_Diode_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e61447</tstamps>
     </comp>
     <comp ref="D2">
       <value>POWER OUT</value>
       <footprint>LEDs:LED_0805</footprint>
+      <fields>
+        <field name="Footprint">LEDs:LED_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="Led_Small" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED-* LED_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e5c761</tstamps>
     </comp>
     <comp ref="J1">
       <value>CONN1_1</value>
       <footprint>Connect:WAGO256</footprint>
+      <fields>
+        <field name="Footprint">Connect:WAGO256</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CONN1_1" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
@@ -162,6 +251,11 @@
     <comp ref="J2">
       <value>CONN1_1</value>
       <footprint>Connect:WAGO256</footprint>
+      <fields>
+        <field name="Footprint">Connect:WAGO256</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CONN1_1" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
@@ -171,6 +265,11 @@
     <comp ref="J3">
       <value>CONN1_1</value>
       <footprint>Connect:WAGO256</footprint>
+      <fields>
+        <field name="Footprint">Connect:WAGO256</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CONN1_1" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
@@ -180,6 +279,11 @@
     <comp ref="J4">
       <value>CONN1_1</value>
       <footprint>Connect:WAGO256</footprint>
+      <fields>
+        <field name="Footprint">Connect:WAGO256</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CONN1_1" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
@@ -189,99 +293,165 @@
     <comp ref="L1">
       <value>4.7uH</value>
       <footprint>Inductors_NEOSID:Inductor_XAL4030-472MEB</footprint>
+      <fields>
+        <field name="Footprint">Inductors_NEOSID:Inductor_XAL4030-472MEB</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="INDUCTOR" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e4ddd5</tstamps>
     </comp>
     <comp ref="L2">
       <value>240nH</value>
       <footprint>Resistors_SMD:R_0805</footprint>
+      <fields>
+        <field name="Footprint">Resistors_SMD:R_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="INDUCTOR" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e50dcf</tstamps>
     </comp>
     <comp ref="P1">
       <value>_NC</value>
       <footprint>Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <fields>
+        <field name="Footprint">Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X01 Pin_Header_Angled_1X01 Socket_Strip_Straight_1X01 Socket_Strip_Angled_1X01"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000572b51fa</tstamps>
     </comp>
     <comp ref="P2">
       <value>_NC</value>
       <footprint>Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <fields>
+        <field name="Footprint">Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X01 Pin_Header_Angled_1X01 Socket_Strip_Straight_1X01 Socket_Strip_Angled_1X01"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000572b525f</tstamps>
     </comp>
     <comp ref="P3">
       <value>_NC</value>
       <footprint>Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <fields>
+        <field name="Footprint">Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X01 Pin_Header_Angled_1X01 Socket_Strip_Straight_1X01 Socket_Strip_Angled_1X01"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000572b52a1</tstamps>
     </comp>
     <comp ref="P4">
       <value>_NC</value>
       <footprint>Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <fields>
+        <field name="Footprint">Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X01 Pin_Header_Angled_1X01 Socket_Strip_Straight_1X01 Socket_Strip_Angled_1X01"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000572b52ad</tstamps>
     </comp>
     <comp ref="P5">
       <value>CONN_01X01</value>
       <footprint>Pin_Headers:Pin_Header_Straight_1x01</footprint>
+      <fields>
+        <field name="Footprint">Pin_Headers:Pin_Header_Straight_1x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="CONN_01X01" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="Pin_Header_Straight_1X01 Pin_Header_Angled_1X01 Socket_Strip_Straight_1X01 Socket_Strip_Angled_1X01"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e6268e</tstamps>
     </comp>
     <comp ref="R1">
       <value>35k7</value>
       <footprint>Resistors_SMD:R_0805</footprint>
+      <fields>
+        <field name="Footprint">Resistors_SMD:R_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e4061c</tstamps>
     </comp>
     <comp ref="R2">
       <value>10k2</value>
       <footprint>Resistors_SMD:R_0805</footprint>
+      <fields>
+        <field name="Footprint">Resistors_SMD:R_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e40717</tstamps>
     </comp>
     <comp ref="R3">
       <value>1k93</value>
       <footprint>Resistors_SMD:R_0805</footprint>
+      <fields>
+        <field name="Footprint">Resistors_SMD:R_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e4079e</tstamps>
     </comp>
     <comp ref="R4">
       <value>1k2</value>
       <footprint>Resistors_SMD:R_0805</footprint>
+      <fields>
+        <field name="Footprint">Resistors_SMD:R_0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPDOWN02.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e5c6df</tstamps>
     </comp>
@@ -289,6 +459,12 @@
       <value>TPS54332</value>
       <footprint>Housings_SOIC:8-PowerSOIC_Pitch1.27mm</footprint>
       <datasheet>https://www.ti.com/lit/ds/symlink/tps54332.pdf?ts=1720015286104&amp;ref_url=https%253A%252F%252Fwww.mouser.com%252F</datasheet>
+      <fields>
+        <field name="UST_ID"/>
+        <field name="Footprint">Housings_SOIC:8-PowerSOIC_Pitch1.27mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/tps54332.pdf?ts=1720015286104&amp;ref_url=https%253A%252F%252Fwww.mouser.com%252F</field>
+        <field name="Description"/>
+      </fields>
       <libsource lib="STEPDOWN2A-rescue" part="TPS54332" description=""/>
       <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
@@ -309,6 +485,9 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -319,6 +498,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">CONN1_1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="P1" type="passive"/>
@@ -334,6 +516,9 @@
       <fields>
         <field name="Reference">P</field>
         <field name="Value">CONN_01X01</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="P1" type="passive"/>
@@ -352,6 +537,9 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">CP</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -369,6 +557,9 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">D_Schottky</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -383,6 +574,9 @@
       <fields>
         <field name="Reference">L</field>
         <field name="Value">INDUCTOR</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -397,6 +591,9 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">Led_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -411,6 +608,9 @@
       <fields>
         <field name="Reference">R</field>
         <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -421,6 +621,9 @@
       <fields>
         <field name="Reference">U</field>
         <field name="Value">TPS54332</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="BOOT" type="power_out"/>
